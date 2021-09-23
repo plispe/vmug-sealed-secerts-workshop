@@ -1,5 +1,11 @@
 # VMUG workshop sealed-secrets
 
+## Whoami
+
+[Petr Pliska](https://www.linkedin.com/in/petr-pliska-16b31b48/)  
+petr.pliska@geetoo.com  
+DevOps Engineer
+
 ## Repository
 ![alt text](https://github.com/plispe/vmug-sealed-secerts-workshop/blob/master/vmug-workshop.png?raw=true)
 
