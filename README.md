@@ -1,5 +1,9 @@
 # VMUG workshop sealed-secrets
 
+## Repository
+![alt text](https://github.com/plispe/vmug-sealed-secerts-workshop/blob/master/vmug-workshop.png?raw=true)
+
+
 ## Topics
 * What is Kubernetes(k8s) 10 000 feet overview
 * Kubernetes secrets (how it works)
