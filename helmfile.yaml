@@ -1,0 +1,11 @@
+repositories:
+- name: sealed-secrets 
+  url: https://bitnami-labs.github.io/sealed-secrets
+releases:
+- name: sealed-secret
+  chart: sealed-secrets/sealed-secrets
+  namespace: kube-system
+  version: 1.16.0
+  values:
+  - commandArgs:
+    - "--key-renew-period=0"

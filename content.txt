@@ -1,0 +1,4 @@
+1. Kubernetes secrets (how it works)
+2. What is GitOps workflow
+3. Storing kubernetes secrets in git (how to it without compromising them)
+4. Sealed secrets (bitnami)
